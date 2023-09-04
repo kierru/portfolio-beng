@@ -129,7 +129,7 @@ const Testimonial = () => {
                           via Linkedin - June 7, 2023
                         </p>
                       </div>
-                      <div className="text-yellow-500 mt-1.5 flex gap-1">
+                      <div className="text-yellow-500 mt-1.5 flex justify-center items-center gap-1">
                         <RiStarFill />
                         <RiStarFill />
                         <RiStarFill />
@@ -178,7 +178,7 @@ const Testimonial = () => {
                         via Linkedin - May 31, 2023
                         </p>
                       </div>
-                      <div className="text-yellow-500 mt-1.5 flex gap-1">
+                      <div className="text-yellow-500 mt-1.5 flex justify-center items-center gap-1">
                         <RiStarFill />
                         <RiStarFill />
                         <RiStarFill />
